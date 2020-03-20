@@ -1,1 +1,1 @@
-# brainfuck-to-c-simple-translator
+# Brainfuck to C simple translator
